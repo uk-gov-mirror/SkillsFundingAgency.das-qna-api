@@ -2029,7 +2029,7 @@
                     "Label": "",
                     "ShortLabel": "",
                     "QuestionBodyText": "",
-                    "Hint": "Upload a file",
+                    "Hint": "",
                     "Input": {
                         "Type": "FileUpload",    
                         "Options": [],
@@ -2048,7 +2048,7 @@
                     "Label": "",
                     "ShortLabel": "",
                     "QuestionBodyText": "",
-                    "Hint": "Upload a file",
+                    "Hint": "",
                     "Input": {
                         "Type": "FileUpload",    
                         "Options": [],
@@ -2061,7 +2061,7 @@
                     "Label": "",
                     "ShortLabel": "",
                     "QuestionBodyText": "",
-                    "Hint": "Upload a file",
+                    "Hint": "",
                     "Input": {
                         "Type": "FileUpload",    
                         "Options": [],
